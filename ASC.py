@@ -20,9 +20,9 @@ tf.random.set_seed(SEED)
 random.seed(SEED)
 
 # Paths to dataset directories
-train_path = "H:\\Animal Species Classification\\Animal Species Classification Dataset\\Training Data"
-val_path = "H:\\Animal Species Classification\\Animal Species Classification Dataset\\Validation Data"
-test_path = "H:\\Animal Species Classification\\Animal Species Classification Dataset\\Testing Data"
+train_path = "H:\\CV\\Animal Species Classification\\Animal Species Classification Dataset\\Training Data"
+val_path = "H:\\CV\\Animal Species Classification\\Animal Species Classification Dataset\\Validation Data"
+test_path = "H:\\CV\\Animal Species Classification\\Animal Species Classification Dataset\\Testing Data"
 
 # Create dataset directories
 train_data_dir = pathlib.Path(train_path)
