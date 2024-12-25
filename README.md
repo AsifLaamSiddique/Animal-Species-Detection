@@ -22,9 +22,9 @@ This project implements a deep learning model for classifying images of animals 
 - scikit-learn
 - pathlib
 
+## Dataset
+The dataset is not included in this repository due to size constraints. You can download it from https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset.
+
 Install the required packages:
 ```bash
 pip install tensorflow numpy pandas scikit-learn
-
-## Dataset
-The dataset is not included in this repository due to size constraints. You can download it from https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset.
